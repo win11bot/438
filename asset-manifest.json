@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "https://pr-preview.win11react.com/438/static/css/main.207d8339.css",
-    "main.js": "https://pr-preview.win11react.com/438/static/js/main.c038983b.js",
-    "static/media/spotify.ttf": "https://pr-preview.win11react.com/438/static/media/spotify.e0e1dc5c97e13d79c9fd.ttf",
-    "static/media/SettingsIcons.woff2": "https://pr-preview.win11react.com/438/static/media/SettingsIcons.05b3fe8c6c4599103d72.woff2",
-    "static/media/spotify.woff2": "https://pr-preview.win11react.com/438/static/media/spotify.add3c9225e28bf644f29.woff2",
-    "index.html": "https://pr-preview.win11react.com/438/index.html",
-    "main.207d8339.css.map": "https://pr-preview.win11react.com/438/static/css/main.207d8339.css.map",
-    "main.c038983b.js.map": "https://pr-preview.win11react.com/438/static/js/main.c038983b.js.map"
+    "main.css": "./static/css/main.d2174632.css",
+    "main.js": "./static/js/main.e0412935.js",
+    "static/media/spotify.ttf": "./static/media/spotify.e0e1dc5c97e13d79c9fd.ttf",
+    "static/media/SettingsIcons.woff2": "./static/media/SettingsIcons.05b3fe8c6c4599103d72.woff2",
+    "service-worker.js": "./service-worker.js",
+    "static/media/spotify.woff2": "./static/media/spotify.add3c9225e28bf644f29.woff2",
+    "static/media/server.jpg": "./static/media/server.99e1fcd21a4a9a3b736f.jpg",
+    "index.html": "./index.html",
+    "main.d2174632.css.map": "./static/css/main.d2174632.css.map",
+    "main.e0412935.js.map": "./static/js/main.e0412935.js.map"
   },
   "entrypoints": [
-    "static/css/main.207d8339.css",
-    "static/js/main.c038983b.js"
+    "static/css/main.d2174632.css",
+    "static/js/main.e0412935.js"
   ]
 }
